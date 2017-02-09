@@ -6,6 +6,7 @@ package m17fichaavaliacao;
  * a presença de um campo de texto vazio e mostrar a respetiva mensagem de erro.
  * @author a13226 a15684
  * @version 1.0 09.fev.2017
+ * https://github.com/HugoPinto1/FichaAvaliacao.git
  */
 
 public class LinhaVazia extends Exception{
