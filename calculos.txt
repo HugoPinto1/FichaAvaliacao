@@ -1,0 +1,4 @@
+Ponto1 X: -5.0, Y: 0.0 | Ponto 2 X: 0.0, Y: 0.0, distância: 5.0
+Ponto1 X: -5.0, Y: 0.0 | Ponto 2 X: 0.0, Y: 0.0, Distância: 5.0
+Ponto1 X: -5.0, Y: 0.0 | Ponto 2 X: 0.0, Y: 0.0, Distância: 5.0
+Ponto1 X: 3.0, Y: 5.0 | Ponto 2 X: 8.0, Y: 7.0, Distância: 5.385164807134504
